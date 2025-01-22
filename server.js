@@ -27,7 +27,7 @@ const swaggerOptions = {
         url: 'http://localhost:3000',
       },
       {
-        url: 'https://tour-accra.onrender.com',
+        url: 'https://happy-accra-2.onrender.com',
       },
     ],
   },

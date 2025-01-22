@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/florian-kausche/Happy-Accra.git"
+    "url": "git+https://happy-accra-2.onrender.com"
   },
   "author": "Florian Adu Kausche",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/florian-kausche/Happy-Accra/issues"
+    "url": "https://happy-accra-2.onrender.com/issues"
   },
-  "homepage": "https://github.com/florian-kausche/Happy-Accra#readme",
+  "homepage": "https://happy-accra-2.onrender.com#readme",
   "dependencies": {
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",

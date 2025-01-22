@@ -15,6 +15,9 @@ const setupSwagger = (app) => {
         {
           url: 'http://localhost:3000',
         },
+        {
+          url: 'https://happy-accra-2.onrender.com',
+        },
       ],
     },
     apis: ['./controllers/places.js'], // Ensure this path is correct

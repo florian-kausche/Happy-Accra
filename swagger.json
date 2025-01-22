@@ -1,11 +1,11 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "Task Tracker API",
-    "description": "API for managing tasks",
+    "title": "Happy Accra API",
+    "description": "API for Touring Accra",
     "version": "1.0.0"
   },
-  "host": "Happy-Accra-tasktracker.onrender.com",
+  "host": "https://happy-accra-2.onrender.com",
   "basePath": "/",
   "schemes": [
     "http",
