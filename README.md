@@ -29,5 +29,4 @@ The following tools were used to develop this software:
 - [Swagger Documentation](http://render.com/docs)
 
 ## Running the Program
-To run the program:
 To run the program one has to type the command npm start. This will let the server start running on port 3000 on http://localhost:3000. Swagger.js was used for the documentation of the API and it can be accessed at http://localhost:3000/api-docs
