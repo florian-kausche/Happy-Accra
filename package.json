@@ -1,5 +1,5 @@
 {
-  "name": "cse341-project",
+  "name": "Happy-Accra-project",
   "version": "1.0.0",
   "description": "My first project",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/florian-kausche/CSE341-project.git"
+    "url": "git+https://github.com/florian-kausche/Happy-Accra.git"
   },
   "author": "Florian Adu Kausche",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/florian-kausche/CSE341-project/issues"
+    "url": "https://github.com/florian-kausche/Happy-Accra/issues"
   },
-  "homepage": "https://github.com/florian-kausche/CSE341-project#readme",
+  "homepage": "https://github.com/florian-kausche/Happy-Accra#readme",
   "dependencies": {
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
