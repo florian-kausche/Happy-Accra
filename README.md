@@ -12,7 +12,7 @@ The purpose of creating this software is to practice using Node.js and Express f
 [Watch the demo video](https://link-to-your-video.com)
 
 ## GitHub Repository
-[GitHub Repository] (https://github.com/florian-kausche/Happy-Accra)
+(https://github.com/florian-kausche/Happy-Accra)
 
 ## Development Environment
 The following tools were used to develop this software:
@@ -26,7 +26,7 @@ The following tools were used to develop this software:
 - [Express Documentation](https://expressjs.com/)
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [Swagger Documentation](https://swagger.io/docs/)
-- [Swagger Documentation](http://render.com/docs)
+- [Render Documentation](http://render.com/docs)
 
 ## Running the Program
 To run the program one has to type the command npm start. This will let the server start running on port 3000 on http://localhost:3000. Swagger.js was used for the documentation of the API and it can be accessed at http://localhost:3000/api-docs
