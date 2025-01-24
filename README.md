@@ -9,7 +9,7 @@ The software includes endpoints for creating, reading, updating, and deleting pl
 The purpose of creating this software is to practice using Node.js and Express for basic API functionality in a web development environment. It also provides a starting point for understanding server-side scripting and interacting with databases through API endpoints.
 
 ## Software Demo Video
-[Watch the demo video](https://link-to-your-video.com)
+[Watch the demo video](2.https://youtu.be/YHgtcChbgZQ)
 
 ## GitHub Repository
 (https://github.com/florian-kausche/Happy-Accra)
